@@ -1,0 +1,51 @@
+.blog_post_h1 {
+  text-align: center;
+}
+
+iframe {
+  margin: auto !important;
+}
+figcaption {
+  text-align: center;
+}
+p {
+  width: 80%;
+  margin: auto;
+  /* color: red; */
+}
+
+table {
+  margin: auto;
+  border: 1px solid white;
+}
+td,
+tr,
+thead,
+tbody {
+  border: 1px solid white;
+}
+body{
+  
+}
+h1{
+  /* font-size: 8rem; */
+  /* color: green; */
+}
+h2{
+  /* font-size: 8rem; */
+}
+h3{
+  /* font-size: 8rem; */
+}
+h4{
+  /* font-size: 8rem; */
+}
+h5{
+  /* font-size: 8rem; */
+}
+div{
+  /* font-size: 8rem; */
+  /* color: blue; */
+}
+ 
+
